@@ -1,0 +1,14 @@
+<!Doctype HTML>
+<html lang="en">
+<head>
+<meta chatset="utd-8">
+<title>title</title>
+</head>
+<body>
+<h1> modified</h1>
+<%
+import os;
+print("my first psp file on web")
+%>
+</body>
+</html>

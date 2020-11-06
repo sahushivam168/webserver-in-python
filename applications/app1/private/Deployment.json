@@ -1,0 +1,10 @@
+{
+"HomePage":"HomePage.html",
+"ContextName":"Tech.com",
+"Url-Mapping":[{"url":"kalu","resource":["AddCustomer.py","Get"]},
+{"url":"balu","resource":["FileUpload.py","Post"]},
+{"url":"bandu","resource":["Bandu.py","Get"]},
+{"url":"psp","resource":["abcd.psp","Get"]},
+{"url":"reqforward","resource":["reqfwd.py","Get"]}
+]
+}
